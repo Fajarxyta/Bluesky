@@ -1,1 +1,0 @@
-print("mau ngapain bang?")
