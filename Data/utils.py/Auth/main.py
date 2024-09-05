@@ -1,0 +1,1 @@
+print("mau ngapain bang?")
